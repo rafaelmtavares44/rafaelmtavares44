@@ -93,22 +93,6 @@ Plataforma completa que une **IoT + IA generativa** para monitorar hidroponia em
 
 ---
 
-### 🌐 [Hydroponic System API](https://github.com/rafaelmtavares44/hydroponic-system-api)
-
-API REST mais leve do sistema hidropônico, com deploy no Vercel. Recebe leituras de sensores, persiste em MongoDB Atlas e expõe endpoint de recomendação que aplica regras sobre temperatura e pH.
-
-**Stack:** Python · Flask · MongoDB Atlas · Vercel
-**Deploy:** [hydroponic-system-api.vercel.app](https://hydroponic-system-api.vercel.app)
-
----
-
-### 📈 Sales Analysis Advisor *(em construção)*
-
-Ferramenta que processa dados comerciais para identificar quedas de performance e sugerir ações. Funciona como um "analista júnior" que lê a planilha de vendas e aponta onde está o problema — unindo minha bagagem comercial com Python.
-
-**Stack:** Python · Pandas · Matplotlib
-
----
 
 ## 📚 Certificações & Cursos
 
@@ -117,7 +101,7 @@ Ferramenta que processa dados comerciais para identificar quedas de performance 
 - 🛠️ **Estrutura de Projetos com CrewAI** — DIO
 - 🎓 **Graduação em Inteligência Artificial** — Faculdade SENAI Fatesg *(em curso)*
 
-> Sempre estudando. Próximas: Power BI Data Analyst (PL-300), Google Data Analytics, SQL HackerRank.
+
 
 ---
 
@@ -134,7 +118,7 @@ Ferramenta que processa dados comerciais para identificar quedas de performance 
 
 ## 📬 Vamos conversar?
 
-Estou buscando oportunidades como **Estagiário em Dados/IA** ou **Analista de Dados Júnior**.
+
 
 Se você procura alguém que combina **leitura aguçada de negócio** com **capacidade técnica em IA e dados**, vamos trocar uma ideia.
 
